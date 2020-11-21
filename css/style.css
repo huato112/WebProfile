@@ -181,6 +181,7 @@ h1.head {
     background-size: 160%;
     width: 350px;
     height: 350px;
+    border-radius: 1.5em;
 }
 
 /*------------------------------------------*/
@@ -282,4 +283,5 @@ h1.head {
     background-size: 160%;
     width: 350px;
     height: 350px;
+    border-radius: 1.5em;
 }
